@@ -12,7 +12,7 @@ def openWebPage():
         #'https://www.tradingview.com/chart/Mr0LbiKB/', #金智科技
        ]
     for i in url:
-        os.system("python3 -m webbrowser " + i) #220805update
+        os.system("python -m webbrowser " + i) #220805update
 
 input_msg = input("Are you sure about openning all the pages? (y/n)")
 if input_msg == 'y':
