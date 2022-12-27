@@ -5,10 +5,11 @@ url =[
     'https://www.tradingview.com/chart/caDek3Z6/', #鼎盛新材
     'https://www.tradingview.com/chart/O5w6cxmD/', #福莱特
     'https://www.tradingview.com/chart/g5CelBO9/', #明德生物
-    'https://www.tradingview.com/chart/Mr0LbiKB/', #南玻A
     'https://www.tradingview.com/chart/fBmBFdIX/', #科伦药业, SR > 5
     'https://www.tradingview.com/chart/VpgCvDG8/', #巨星科技, SR > 2
-    
+    'https://www.tradingview.com/chart/RBVJp2WS/', #荣盛发展，SR > 5
+
+    #'https://www.tradingview.com/chart/Mr0LbiKB/', #南玻A
     #'https://www.tradingview.com/chart/VpgCvDG8/', #古井贡酒
     #'https://www.tradingview.com/chart/Mr0LbiKB/', #招商银行
     #'https://www.tradingview.com/chart/VpgCvDG8/', #海源复材
