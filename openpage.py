@@ -2,20 +2,21 @@
 import os
 url =[
     'https://www.tradingview.com/chart/1qYvHMZe/', #BTCUSD
-    'https://www.tradingview.com/chart/WFQjAmDL/', #小米
-    'https://www.tradingview.com/chart/caDek3Z6/', #鼎盛新材
-    'https://www.tradingview.com/chart/O5w6cxmD/', #福莱特
-    'https://www.tradingview.com/chart/g5CelBO9/', #明德生物
-    'https://www.tradingview.com/chart/fBmBFdIX/', #科伦药业, SR = 8
-    'https://www.tradingview.com/chart/VpgCvDG8/', #巨星科技, SR = 4
-    'https://www.tradingview.com/chart/RBVJp2WS/', #中钨高新
-    'https://www.tradingview.com/chart/uIOtTO4I/', #深深房A
-    'https://www.tradingview.com/chart/Mr0LbiKB/', #南玻A
-    'https://www.tradingview.com/chart/24PY4ZGk/', #芯能科技
-    'https://www.tradingview.com/chart/xN3apmRm/', #和而泰
-    'https://www.tradingview.com/chart/dEaD5qXm/', #万邦达, SR = 6.8
-    'https://www.tradingview.com/chart/E65JE3rd/', #GQY视讯, SR = 3.36
-    'https://www.tradingview.com/chart/j8Iu5MEr/', #奥飞数据, SR = 2.89
+    'https://www.tradingview.com/chart/WFQjAmDL/', #Xiao Mi
+    'https://www.tradingview.com/chart/caDek3Z6/', #Ding Sheng Xin Cai
+    'https://www.tradingview.com/chart/O5w6cxmD/', #Fu Lai Te
+    'https://www.tradingview.com/chart/g5CelBO9/', #Ming De Sheng Wu
+    'https://www.tradingview.com/chart/fBmBFdIX/', #KE Lun Yao Ye, SR = 8
+    'https://www.tradingview.com/chart/VpgCvDG8/', #Ju Xing Ke Ji, SR = 4
+    'https://www.tradingview.com/chart/RBVJp2WS/', #Zhong Wu Gao Xin
+    'https://www.tradingview.com/chart/uIOtTO4I/', #Shen Shen Fang A
+    'https://www.tradingview.com/chart/Mr0LbiKB/', #Nan Bo A
+    'https://www.tradingview.com/chart/24PY4ZGk/', #Xin Neng Ke Ji
+    'https://www.tradingview.com/chart/xN3apmRm/', #He Er Tai
+    'https://www.tradingview.com/chart/dEaD5qXm/', #Wan Bang Da, SR = 6.8
+    'https://www.tradingview.com/chart/E65JE3rd/', #GQY Shi Xun, SR = 3.36
+    'https://www.tradingview.com/chart/j8Iu5MEr/', #Ao Fei Shu Ju, SR = 2.89
+    'https://www.tradingview.com/chart/2GxFomf3/', #Shen Zhou Shu Ma，
     
     
 
